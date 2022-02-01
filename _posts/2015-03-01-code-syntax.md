@@ -79,9 +79,22 @@ ashdbjhabsjdha
 22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)
 80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
 
-
-> ftp <IP adress>
-
+{% highlight ruby linenos %}
+ftp <IP adress>
+{% endhighlight %}
+  
+  
+  
+  
+{% highlight ruby linenos %}
+  PORT   STATE SERVICE VERSION
+21/tcp open  ftp     vsftpd 3.0.3
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+  
+{% endhighlight %} 
+  
+  
 -asdasdasd
 - asdasdasdasdasdasd
 
