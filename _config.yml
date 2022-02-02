@@ -36,3 +36,20 @@ version: "1.1.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: Rufan0
+  instagram:
+  linkedin: rufan-bayramzadə-80b6621a7
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 0rufn
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
