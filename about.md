@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-## Blog
+## About Blog
 
 Bu blog github üzərində qurulub və open source dur. Jekyll templete istifadə edilib və üzərində dəyişikliklər edilmişdir. 
 
@@ -15,4 +15,5 @@ Contact me
 
 [b.rufan3@gmail.com](mailto:b.rufan3@gmail.com)
 
-<a href="https://github.com/Rufan0"><i class="svg-icon github"></i></a>
+[Github](https://github.com/Rufan0/)
+
