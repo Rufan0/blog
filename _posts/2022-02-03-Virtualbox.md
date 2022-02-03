@@ -9,15 +9,14 @@ Salam hər kəsə bu gün sizlərə Virtualbox haqqında danışacam.
 # Vİrtualbox nədir?
 
 Bu proqram virtual maşınları prosessorun virtualizasiya texnologiyasından istifadə edərək işləməsini təmin edən pulsuz hipervizordur.
-Yəni komputerimizin içərisində bir neçə Virtual [maşınları](https://az.wikipedia.org/wiki/Virtual_ma%C5%9F%C4%B1n) (kompüterləri) işlətməyə kömək edən (open source) proqramdır. Bu proqram Oracle şirkəti tərəfindən dəstəklənir.
+Yəni kompüterimizin içərisində bir neçə Virtual [maşınları](https://az.wikipedia.org/wiki/Virtual_ma%C5%9F%C4%B1n) (kompüterləri) işlətməyə kömək edən (open source) proqramdır. Bu proqram Oracle şirkəti tərəfindən dəstəklənir.
 
 Bəzi insanlar Vmware istifadə edirlər bəzi insanlar isə Virtualbox. Sadaliyi üçün mən VirutalBox istifadə etməyi üstün tuturam.
 Veb sayt: Https://www.virtualbox.org
 
 # Virtualizasiya aktiv etmə
 
-Komputerinizin boot menusundan Virtuallaşdırmanı aktiv etməlisiniz.
-
+Kompüterinizin boot menusundan Virtuallaşdırmanı və Hyper-V -ni aktiv etməlisiniz.
 
 
 Bu [Linkə](https://support.bluestacks.com/hc/tr/articles/115003910391-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-) daxil olub 
@@ -25,7 +24,8 @@ Acer, Asus, Dell, Hp modellərdə Virtuallaşdırmanı necə aktiv edildiyinə b
 
 > Əgər sizin kompüteriniz fərqli modeldirsə googledə axtarış edib öz komp modelinizə görə necə edildiyini tapa bilərsiniz. 
 
-
+Bu linkdən [Hyper-V](https://itigic.com/tr/hyper-v-turn-windows-10-virtualization-on-and-off/) necə aktiv edildiyini görə bilərsiniz. 
+ 
 # Yükləmə və Quraşdırma
 
 ![virtualbox0]( https://i.imgur.com/J0yUTtB.png)
@@ -50,7 +50,7 @@ Virtualboxun [rəsmi saytından](https://www.virtualbox.org/wiki/Download_Old_Bu
 
 > Hansı problemlər ola bilər? Mən son versiyanı istifadə edəndə donmalar olurdu və həmçinin hər hansısa bir Virtual maşını işə salanda CPU error yazılırdı.
 
-# Setup prosesini tamamladıqdan sonra 
+# Proqramı quraşdırdıqdan sonra
 
 File > Performances > Extensions daxil olub İlk başda yüklədiyimiz Oracle_VM_VirtualBox_Extension_Pack faylını bura əlavə edirik.
 
