@@ -16,13 +16,12 @@ Veb sayt: Https://www.virtualbox.org
 
 # Virtualizasiya aktiv etmə
 
-Kompüterinizin boot menusundan Virtuallaşdırmanı və Hyper-V -ni aktiv etməlisiniz.
-
+Kompüterinizin boot menusundan Virtuallaşdırmanı, və Hyper-V -ni(bunu isə kompüterinizin içindən edirsiniz) aktiv etməlisiniz.
 
 Bu [Linkə](https://support.bluestacks.com/hc/tr/articles/115003910391-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-) daxil olub 
 Acer, Asus, Dell, Hp modellərdə Virtuallaşdırmanı necə aktiv edildiyinə baxa bilərsiniz.
 
-> Əgər sizin kompüteriniz fərqli modeldirsə googledə axtarış edib öz komp modelinizə görə necə edildiyini tapa bilərsiniz. 
+> Əgər sizin kompüteriniz fərqli modeldirsə googledə axtarış edib öz modelinizə uyğun necə edildiyini tapa bilərsiniz. 
 
 Bu linkdən [Hyper-V](https://itigic.com/tr/hyper-v-turn-windows-10-virtualization-on-and-off/) necə aktiv edildiyini görə bilərsiniz. 
  
@@ -44,9 +43,7 @@ Windows 11 stabil versiyası hələ tam hazır olmadığı üçün hər kəsdə 
 
 [Extension pack](https://download.virtualbox.org/virtualbox/6.1.28/Oracle_VM_VirtualBox_Extension_Pack-6.1.28.vbox-extpack)
 
-Əgər bu versiyada da problem yaşasanız.	
-Virtualboxun [rəsmi saytından](https://www.virtualbox.org/wiki/Download_Old_Builds_6_0)
- əvvəlki versiyaları yükləyə bilərsiniz.
+Əgər bu versiyada da problem yaşasanız, Virtualboxun [rəsmi saytından](https://www.virtualbox.org/wiki/Download_Old_Builds_6_0) əvvəlki versiyalarını yükləyə bilərsiniz.
 
 > Hansı problemlər ola bilər? Mən son versiyanı istifadə edəndə donmalar olurdu və həmçinin hər hansısa bir Virtual maşını işə salanda CPU error yazılırdı.
 
