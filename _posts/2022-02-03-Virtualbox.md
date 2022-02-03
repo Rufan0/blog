@@ -20,6 +20,11 @@ Komputerinizin boot menusundan Virtuallaşdırmanı aktiv etməlisiniz.
 
 
 
+Bu [Linkə](https://support.bluestacks.com/hc/tr/articles/115003910391-Bilgisayar%C4%B1mda-Sanalla%C5%9Ft%C4%B1rmay%C4%B1-VT-Nas%C4%B1l-Etkinle%C5%9Ftirebilirim-) daxil olub 
+Acer, Asus, Dell, Hp modellərdə Virtuallaşdırmanı necə aktiv edildiyinə baxa bilərsiniz.
+
+> Əgər sizin kompüteriniz fərqli modeldirsə googledə axtarış edib öz komp modelinizə görə necə edildiyini tapa bilərsiniz. 
+
 
 # Yükləmə və Quraşdırma
 
