@@ -6,6 +6,8 @@ title: About me
 
 Bu blog github üzərində qurulub və open source dur. Jekyll templete istifadə edilib və üzərində dəyişikliklər edilmişdir. 
 
+This blog is based on github and is open source. Jekyll templete was used and changes were made on it.
+
 ## About me
 Salam mənim adım Rufandır, bir ildən artıqdır ki, Kiber Təhlükəsizlik sahəsində araşdımalar edir və ctf-ləri həll etməyi xoşlayıram. Öyrənməyin ən yaxşı yolu öyrəndiklərini kiməsə izah etmək olduğunu düşünürəm buna görə də bu blogumda öyrəndiklərimi sizinlə paylaşacam.
 
