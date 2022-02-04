@@ -101,3 +101,8 @@ ftp <IP adress>
 1.Salam
 1. Salamlar
 
+
+
+<p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p>
+
+<a href="https://www.freecodecamp.orga/">freeCodeCamp</a>
