@@ -110,6 +110,5 @@ ftp <IP adress>
 
 <p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a> </p>
 
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
-
+<a href="https://www.google.com" target="_blank">Visit Google com</a>
 
